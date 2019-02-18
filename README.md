@@ -45,6 +45,8 @@ Below are some references if you need help:
 
 ## Installing the necessary dependencies
 
+The Python dependencies used for this assignment are the same as through week 4. If you've updated your local environment already for week 4, you shouldn't need to install any more dependencies. If not, follow the instructions below.
+
 First, download the `environment.yml` file in this repository to your computer.
 
 **Important**: if you are on a Windows machine, make sure that `.txt` wasn't appended to the file name when you downloaded it. If so, you will need to rename it so the file ends in `.yml`.
